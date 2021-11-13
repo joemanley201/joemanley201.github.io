@@ -5,3 +5,5 @@
 [LinkedIn](https://www.linkedin.com/in/joemanley201/)
 
 [Email](mailto:joemanley201@gmail.com)
+
+[Recipes](recipes/index.md)
