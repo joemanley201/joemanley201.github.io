@@ -1,8 +1,9 @@
----
-layout: default
-title: "Happy Jekylling!"
----
+# joemanley201.github.io
 
-## You're ready to go!
+[GitHub](https://github.com/joemanley201)
 
-Start developing your Jekyll website.
+[LinkedIn](https://www.linkedin.com/in/joemanley201/)
+
+[Email](mailto:joemanley201@gmail.com)
+
+[Recipes](recipes/index.md)
