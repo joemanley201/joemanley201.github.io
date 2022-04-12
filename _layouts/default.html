@@ -12,16 +12,35 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
 
-    .student {
-      top: 44%;
-      left: 44%;
+    .container {
       position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+    }
+
+    .studentWrapper {
+      display: table;
+      width: 100%;
+      height: 100%;
+    }
+
+    .student {
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
       font-weight: bold;
       font-size: 3em;
+      height: 100%;
     }
   </style>
   <body>
-    <div class="student"></div>
+    <div class="container">
+      <div class="studentWrapper">
+        <div class="student"></div>
+      </div>
+    </div>
   </body>
   <script>
     var namesStr = '{{ site.data.names | jsonify }}';
