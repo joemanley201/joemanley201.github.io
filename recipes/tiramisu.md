@@ -37,6 +37,7 @@ Friend with a rich Italian heritage
 
 - Using both the cocoa powder and shaved chocolate gives a rich flavor
 - Bitter sweet chocolate shavings makes it not so sweet and a lot of people liked it better
+- Using ladyfingers instead of pound cake is much easier to arrange and give it a consistent flavor with every bite.
 
 ## Pictures
 
