@@ -7,7 +7,7 @@ Salt & Straw - Ice Cream Cookbook
 ## Ingredients
 
 - 1 cup granulated sugar
-- 1/2 cup light corn syrup
+- 1/3 cup light corn syrup
 - 8 tablespoons unsalted butter - 1 stick
 - 1/2 teaspoon of kosher salt
 - 1 1/4 cups of sliced almonds or peanuts
