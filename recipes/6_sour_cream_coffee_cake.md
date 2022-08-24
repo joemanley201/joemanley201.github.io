@@ -6,17 +6,20 @@ Zingerman's Bakehouse
 
 ## Ingredients
 
-- Walut Halves - 1 cup plus 2 Tbsp - 132g
-- Brown Sugar - 3 Tbsp (packed) - 41g
-- Granulated Cinnamon - 2 tsp
-- Granulated Sugar - 2 cups - 395 g
-- Unsalted butter room temperature - 1 cup - 227g
-- Large eggs - 3
-- Sour cream - 3/4 cup plus 3 Tbsp - 227g
-- Vanilla extract - 1 1/2 tsp
-- All purpose flour - 2 1/2 cups
-- Baking soda - 1/2 tsp
-- Sea salt - 1 tsp
+| Item | Measurement | Weight |
+| --- | --- | --- |
+| Walut Halves | 1 cup plus 2 Tbsp | 132g |
+| Brown Sugar | 3 Tbsp (packed) | 41g |
+| Granulated Cinnamon | 2 tsp |
+| Granulated Sugar | 2 cups | 395 g |
+| Unsalted butter room temperature | 1 cup | 227g |
+| Large eggs | 3 |
+| Sour cream | 3/4 cup plus 3 Tbsp | 227g |
+| Vanilla extract | 1 1/2 tsp |
+| All purpose flour | 2 1/2 cups |
+| Baking soda | 1/2 tsp |
+| Sea salt | 1 tsp |
+
 
 ## Steps
 
