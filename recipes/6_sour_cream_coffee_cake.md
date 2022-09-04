@@ -16,7 +16,7 @@ Zingerman's Bakehouse
 | Large eggs | 3 |
 | Sour cream | 3/4 cup plus 3 Tbsp | 227g |
 | Vanilla extract | 1 1/2 tsp |
-| All purpose flour | 2 1/2 cups |
+| All purpose flour | 2 1/3 cups | 336g |
 | Baking soda | 1/2 tsp |
 | Sea salt | 1 tsp |
 
