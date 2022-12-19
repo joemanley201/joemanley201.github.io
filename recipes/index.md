@@ -6,3 +6,4 @@
 4. [Salt & Straw - Ice Cream Base](4_ss_ice_cream_base.md)
 5. [Salt & Straw - Brittle](5_ss_brittle.md)
 6. [Sour Cream Coffee Cake](6_sour_cream_coffee_cake.md)
+7. [Cheesecake](7_cheesecake.md)
