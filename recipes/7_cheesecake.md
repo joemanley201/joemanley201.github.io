@@ -10,14 +10,14 @@
 | Item | Measurement | Weight |
 | --- | --- | --- |
 | Graham cracker crumbs | 1 1/2 cups | 150 g |
-| Granulated Sugar | 3 Tbsp | 132g |
+| Granulated Sugar | 3 Tbsp |
 | Unsalted butter, melted | 4 Tbsp | 57g |
 
 ### Cheesecake
 
 | Item | Measurement | Weight |
 | --- | --- | --- |
-| Creeme cheese room temperature | 24 oz | 678g |
+| Cream cheese room temperature | 24 oz | 678g |
 | Granulated sugar | 1 1/2 cups | 300g |
 | Sour cream, room temperature | 3/4 cup | 180g |
 | Vanilla extract | 1 Tbsp |
@@ -31,7 +31,8 @@
 ### For the crust
 - Adiust an oven rack to the middle of the oven. Preheat the oven to 325°F [165°C].
 - Line a 9 by 13 in [23 by 33 cm] pan with a parchment sling.
-- Whisk together the graham cracker crumbs and sugar in a medium bowl. Add the melted butter and mix with a spatula until evenly incorporated.
+- Whisk together the graham cracker crumbs and sugar in a medium bowl.
+- Add the melted butter and mix with a spatula until evenly incorporated.
 - Press the mixture onto the bottom of the prepared pan and bake for 10 minutes.
 - Remove the pan from the oven and let cool. After the pan has cooled, wrap the outside sides in two layers of aluminum foil, with the shiny side facing out (this helps keep the sides of the cheesecake from browning).
 
@@ -43,7 +44,7 @@
 - Using a spatula, give the filling a couple of turns to make sure it is fully mixed.
 
 ### Assemble
-- Pour the filling over the cooled crust and use an offset spatula to smooth the top.
+- Pour the filling over the coolen crust and use an offset spatula to smooth the top.
 - Bang the bottom of the pan on the counter a few times to help get rid of any air bubbles.
 - Bake the cheesecake until the center of the cheesecake registers 150°F [65°C], 30 to 35 minutes.
 - The outside 2 to 3 in [5 to 8 cm] of the cheesecake will be puffed and fairly firm and set, but the center will still be jiggly at this point.
