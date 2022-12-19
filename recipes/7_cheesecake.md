@@ -6,6 +6,7 @@
 ## Ingredients
 
 ### Crust
+
 | Item | Measurement | Weight |
 | --- | --- | --- |
 | Graham cracker crumbs | 1 1/2 cups | 150 g |
@@ -13,6 +14,7 @@
 | Unsalted butter, melted | 4 Tbsp | 57g |
 
 ### Cheesecake
+
 | Item | Measurement | Weight |
 | --- | --- | --- |
 | Creeme cheese room temperature | 24 oz | 678g |
