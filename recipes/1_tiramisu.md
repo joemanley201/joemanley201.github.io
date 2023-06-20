@@ -7,16 +7,17 @@ Friend with a rich Italian heritage
 
 ## Ingredients
 
-- 1 loaf pound cake 10 3/4 oz thinly sliced
-- 2 cups espresso
-- 2 tbsp dark rum (optional)
-- 6 large egg yolks
-- 1/2 cup sugar
-- 2 tbsp all purpose flour
-- 2 tbsp marsala wine (optional)
-- 1 cup whipping cream
-- 1 lb mascarpone cheese
-- 6-8oz semi sweet chocolate shaved (or cocoa powder)
+| Item | Measurement | Weight |
+| --- | --- | --- |
+| pound cake thinly sliced | | 10 3/4 oz |
+| Espresso | 2 cups |
+| Dark rum | 2 tbsp |
+| Large egg yolks | 6 |
+| Sugar | 1/2 cup | 100g |
+| All purpose flour | 2 tbsp |
+| Whipping cream | 1 cup | 250g |
+| Mascarpone cheese | | 1lb |
+| Semi sweet chocolate shaved | | 6-8oz |
 
 ## Steps
 
