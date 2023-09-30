@@ -7,3 +7,4 @@
 5. [Salt & Straw - Brittle](5_ss_brittle.md)
 6. [Sour Cream Coffee Cake](6_sour_cream_coffee_cake.md)
 7. [Cheesecake](7_cheesecake.md)
+8. [Strawberry shortcake](8_strawberry_shortcake.md)
