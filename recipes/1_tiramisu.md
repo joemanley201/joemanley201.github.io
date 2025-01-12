@@ -9,36 +9,31 @@ Friend with a rich Italian heritage
 
 | Item | Measurement | Weight |
 | --- | --- | --- |
-| pound cake thinly sliced | | 10 3/4 oz |
-| Espresso | 2 cups |
-| Dark rum | 2 tbsp |
-| Large egg yolks | 6 |
-| Sugar | 1/2 cup | 100g |
+| ladyfingers | 1 pack | |
+| Espresso | 2 cups (8 shots + water) |
+| Dark rum (optional) | 2 tbsp |
+| Large egg yolks | 8 |
+| Sugar | 1/2 cup | 80g-100g |
 | All purpose flour | 2 tbsp |
-| Whipping cream | 1 cup | 250g |
+| Whipping cream | 1 cup | 450g |
 | Mascarpone cheese | | 1lb |
 | Semi sweet chocolate shaved | | 6-8oz |
 
 ## Steps
 
-1. Arrange single layer of cake in 13 x 9 pan
-2. Mix espresso and rum and drizzle 1/2 of of it
-3. Whisk egg yolk, sugar and flour in a heavy sauce pan
+1. Dip the ladyfingers in the espresso mix and flip them thrice quickly and place them in the pan
+2. Whisk egg yolk, sugar and flour in a heavy sauce pan
 4. Cook over medium heat stirring constantly until mixture thickens (3-4 minutes)
-5. Remove from heat and add marsala
+5. Remove from heat and add marsala (optional)
 6. In a separate bowl whip cream until it has soft peaks
 7. Beat mascarpone lightly and add egg yolk mixture. Mix until smooth
 8. Fold in whipped cream
 9. Spread half over pan
-10. Remaining cake, drizzle, remaining whipped cream
-11. Decorate with chocolate
-12. Refrigerate overnight
-
-## Improvements
-
-- Using both the cocoa powder and shaved chocolate gives a rich flavor
-- Bitter sweet chocolate shavings makes it not so sweet and a lot of people liked it better
-- Using ladyfingers instead of pound cake makes it much easier to arrange in the pan and also to give it a consistent flavor with every bite.
+10. Assemble the next layer of ladyfingers by dipping them in the espresso mix and flipping them thrice quickly and placing them in the pan
+11. Spread the remaining half of the cream over the pan
+12. Refrigerate for at least 8 hours - it lasts for 3 days
+13. Before serving, sift cocoa and sprinkle them evenly
+14. Add thinly shaved chocolate over it
 
 ## Pictures
 
