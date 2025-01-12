@@ -4,7 +4,6 @@
 
 Friend with a rich Italian heritage
 
-
 ## Ingredients
 
 | Item | Measurement | Weight |
@@ -13,9 +12,9 @@ Friend with a rich Italian heritage
 | Espresso | 2 cups (8 shots + water) |
 | Dark rum (optional) | 2 tbsp |
 | Large egg yolks | 8 |
-| Sugar | 1/2 cup | 80g-100g |
+| Sugar | | 80g-100g |
 | All purpose flour | 2 tbsp |
-| Whipping cream | 1 cup | 450g |
+| Whipping cream | | 450g |
 | Mascarpone cheese | | 1lb |
 | Semi sweet chocolate shaved | | 6-8oz |
 
