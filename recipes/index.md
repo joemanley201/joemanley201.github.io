@@ -1,10 +1,14 @@
 # Recipes
 
 1. [Tiramisu - straight from Italy](1_tiramisu.md)
-2. [[WIP] Chicken Tikka Masala](2_chicken_tikka_masala.md)
-3. [[WIP] Sichuan Boiled Fish](3_sichuan_boiled_fish.md)
-4. [Salt & Straw - Ice Cream Base](4_ss_ice_cream_base.md)
-5. [Salt & Straw - Brittle](5_ss_brittle.md)
-6. [Sour Cream Coffee Cake](6_sour_cream_coffee_cake.md)
-7. [Cheesecake](7_cheesecake.md)
-8. [Strawberry shortcake](8_strawberry_shortcake.md)
+2. [Salt & Straw - Ice Cream Base](2_ss_ice_cream_base.md)
+3. [Salt & Straw - Brittle](3_ss_brittle.md)
+4. [Sour Cream Coffee Cake](4_sour_cream_coffee_cake.md)
+5. [Cheesecake](5_cheesecake.md)
+6. [Strawberry shortcake](6_strawberry_shortcake.md)
+7. [Coffee Buttercream](7_coffee_buttercream.md)
+8. [French Meringue](8_french_meringue.md)
+
+## WIP
+1. [[WIP] Chicken Tikka Masala](wip_chicken_tikka_masala.md)
+2. [[WIP] Sichuan Boiled Fish](wip_sichuan_boiled_fish.md)
