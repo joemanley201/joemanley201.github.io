@@ -1,4 +1,4 @@
-# Tiramisu - straight from Italy
+# Strawberry shortcake
 
 ## Reference
 
