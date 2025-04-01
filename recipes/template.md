@@ -6,9 +6,9 @@
 
 ## Ingredients
 
-1 item 1
-
-2 item 2
+| Item | Measurement | Weight |
+| --- | --- | --- |
+| Butter | 3/4 cup | 180g |
 
 ## Steps
 
