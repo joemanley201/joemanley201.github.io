@@ -1,3 +1,5 @@
+[Home](../index.md) > [Recipes](index.md) > Strawberry Shortcake
+
 # Strawberry shortcake
 
 ## Reference

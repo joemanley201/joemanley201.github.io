@@ -1,3 +1,5 @@
+[Home](../index.md) > [Recipes](index.md) > Salt & Straw Brittle
+
 # Salt & Straw - Brittle
 
 ## Reference
