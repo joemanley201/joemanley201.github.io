@@ -1,3 +1,5 @@
+[Home](../index.md) > [Recipes](index.md) > WIP > Sichuan Boiled Fish
+
 # Sichuan Boiled Fish
 
 ## Reference

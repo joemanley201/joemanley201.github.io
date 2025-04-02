@@ -1,4 +1,6 @@
-# Template
+[Home](../index.md) > [Recipes](index.md) > Template recipe
+
+# Template recipe
 
 ## Reference
 

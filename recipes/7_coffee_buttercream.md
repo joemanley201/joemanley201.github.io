@@ -1,3 +1,5 @@
+[Home](../index.md) > [Recipes](index.md) > Coffee Buttercream
+
 # Coffee buttercream
 
 ## Reference

@@ -1,3 +1,5 @@
+[Home](../index.md) > [Recipes](index.md) > Cheesecake
+
 # Cheesecake
 
 ## Reference
