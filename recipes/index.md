@@ -14,3 +14,7 @@
 ## WIP
 1. [[WIP] Chicken Tikka Masala](wip_chicken_tikka_masala.md)
 2. [[WIP] Sichuan Boiled Fish](wip_sichuan_boiled_fish.md)
+
+## Buy
+1. [Tiramisu](mailto:joemanley201@gmail.com?subject=Order%20Request%3A%20Tiramisu)
+2. [Macarons (coffee buttercream flavored)](mailto:joemanley201@gmail.com?subject=Order%20Request%3A%20Macarons%20with%20Coffee%20Buttercream)
